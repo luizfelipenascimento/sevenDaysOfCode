@@ -1,7 +1,5 @@
 package com.example.luiz;
 
-import netscape.javascript.JSObject;
-
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
